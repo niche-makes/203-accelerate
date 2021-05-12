@@ -22,3 +22,16 @@ Text Domain:  accelerate-theme-child
 .button {
 	background: #45ac9d;
 }
+
+.blog-post {
+	width: 50%;
+	float: left;
+	margin-bottom: 2em;
+}
+
+.read-more-link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #45ac9d;
+  text-transform: uppercase;
+}
